@@ -1,0 +1,73 @@
+JavArena/
+│
+├── README.md                    # Overview, learning goals, roadmap summary
+├── roadmap.md                    # Your detailed roadmap (phases, milestones)
+│
+├── 01-core-java/                 # Phase 1: Core Java Foundations
+│   ├── theory/                   # Notes, explanations, examples
+│   ├── exercises/                # Small coding exercises
+│   └── projects/                 # Mini projects (CLI Calculator, Student Management)
+│
+├── 02-oop-mastery/               # Phase 2: OOP Mastery
+│   ├── theory/
+│   ├── exercises/
+│   └── projects/                 # E-commerce Cart, Bank System
+│
+├── 03-exceptions-generics-io/   # Phase 3: Exception Handling, Generics, I/O & NIO
+│   ├── theory/
+│   ├── exercises/
+│   └── projects/                 # Inventory System, File Manipulation Projects
+│
+├── 04-collections/               # Phase 4: Collections Framework
+│   ├── theory/
+│   ├── exercises/
+│   └── projects/                 # Library Management, Sorting/Searching Tasks
+│
+├── 05-concurrency/               # Phase 5: Concurrency & Multithreading
+│   ├── theory/
+│   ├── exercises/
+│   └── projects/                 # Multi-threaded Downloader / Chat Server
+│
+├── 06-maven-gradle/              # Phase 6: Build Tools
+│   ├── theory/
+│   ├── exercises/
+│   └── projects/                 # Convert existing projects to Maven & Gradle builds
+│
+├── 07-advanced-java/             # Phase 7: JVM Internals, Memory, Reflection
+│   ├── theory/
+│   ├── exercises/
+│   └── projects/                 # Annotation Processor, Custom JVM Tools
+│
+├── 08-oo-design-patterns/        # Phase 8: OOAD & Design Patterns
+│   ├── theory/
+│   ├── exercises/
+│   └── projects/                 # Ride Sharing App, Payment Gateway System
+│
+├── 09-testing-quality/           # Phase 9: Testing & Quality
+│   ├── theory/
+│   ├── exercises/
+│   └── projects/                 # Unit tests, Integration tests
+│
+├── 10-spring-boot/               # Phase 10: Spring Boot & Databases
+│   ├── theory/
+│   ├── exercises/
+│   └── projects/                 # Blog API, E-commerce Backend
+│
+├── 11-microservices/             # Phase 11: Microservices & Cloud
+│   ├── theory/
+│   ├── exercises/
+│   └── projects/                 # Social Media Backend (microservices)
+│
+├── 12-system-design/             # Phase 12: System Design & Scalability
+│   ├── theory/                   # Notes on CAP, Sharding, Load Balancing
+│   └── exercises/                # High-level design exercises
+│
+├── 13-mastership/                # Phase 13: Mastery & Continuous Learning
+│   ├── notes/                    # Summaries from Effective Java, Clean Code
+│   └── contributions/            # Open-source contributions, blog posts
+│
+└── resources/                    # Common resources across phases
+    ├── books/
+    ├── cheatsheets/
+    ├── tutorials/
+    └── links.md                  # Useful links & official documentation

@@ -1,13 +1,13 @@
+package intro;
 public class Calculator {
     public static void main(String[] args) {
-        System.out.println("Calculator is ready!");
+        int a = 99;
+        int b = 45;
 
-        int a = 15;
-        int b = 25;
         int addition = a + b;
-        int subtraction = b - a;
+        int subtraction = a - b;
         int multiplication = a * b;
-        int division = b / a;
+        int division = a / b;
 
         System.out.println("Addition: " + addition);
         System.out.println("Subtraction: " + subtraction);

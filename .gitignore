@@ -1,58 +1,13 @@
-# ------------------------
-# Java / Compilation
-# ------------------------
-*.class
-*.jar
-*.war
-*.ear
-*.iml
-
-# ------------------------
-# Maven / Gradle
-# ------------------------
-/target/
-/build/
-/out/
-/.gradle/
-/.gradle-cache/
-/.gradle-wrapper.jar
-/*.log
-
-# ------------------------
-# VS Code
-# ------------------------
-.vscode/
-
-# ------------------------
-# IntelliJ IDEA (optional)
-# ------------------------
+# IntelliJ IDEA
 .idea/
-*.iws
 *.iml
-*.ipr
 
-# ------------------------
-# Logs and temp files
-# ------------------------
+# Build output
+/out/
+
+# Logs
 *.log
-*.tmp
-*.swp
-*.bak
 
-# ------------------------
 # OS-specific files
-# ------------------------
 .DS_Store
 Thumbs.db
-
-# ------------------------
-# Test Reports
-# ------------------------
-/test-output/
-/surefire-reports/
-/failsafe-reports/
-
-# ------------------------
-# Others
-# ------------------------
-.settings/

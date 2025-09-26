@@ -1,4 +1,4 @@
-package object_instantiation;
+package object_instantiation_02;
 
 public class BicycleDemo {
     public static void main(String[] args) {

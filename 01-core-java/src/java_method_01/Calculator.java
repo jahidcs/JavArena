@@ -1,4 +1,4 @@
-package java_method;
+package java_method_01;
 import java.util.Scanner;
 
 public class Calculator {

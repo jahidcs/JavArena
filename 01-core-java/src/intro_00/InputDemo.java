@@ -1,4 +1,4 @@
-package intro;
+package intro_00;
 import java.util.Scanner;
 
 public class InputDemo {

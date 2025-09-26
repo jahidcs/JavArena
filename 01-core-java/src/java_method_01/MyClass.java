@@ -1,4 +1,4 @@
-package java_method;
+package java_method_01;
 
 public class MyClass {
     public void printText(String text){

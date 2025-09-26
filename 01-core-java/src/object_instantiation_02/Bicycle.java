@@ -1,4 +1,4 @@
-package object_instantiation;
+package object_instantiation_02;
 
 public class Bicycle {
     int cadence = 0;

@@ -1,4 +1,4 @@
-package intro;
+package intro_00;
 public class Addition {
     public static void main(String[] args) {
         int a = 1;
